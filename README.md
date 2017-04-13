@@ -44,7 +44,7 @@
 ![image](http://upload-images.jianshu.io/upload_images/5022380-dd842d05b250dc50.png?imageMogr2/auto-orient/strip%7CimageView2/2/h/500)
 * [https://github.com/imflyn/Eyes](https://github.com/imflyn/Eyes)
 
-![image](http://upload-images.jianshu.io/upload_images/5022380-0d01b3192a1b4dd8.gif?imageMogr2/auto-orient/strip)
+![image](http://upload-images.jianshu.io/upload_images/5022380-993b3c0e1c6fbf19.gif?imageMogr2/auto-orient/strip/)
 * [https://github.com/H07000223/FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
 
 ![image](http://upload-images.jianshu.io/upload_images/5022380-af8a0b227faad7e1.gif?imageMogr2/auto-orient/strip)
